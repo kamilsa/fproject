@@ -1,0 +1,6 @@
+res
+.idea
+out
+project
+target
+lib/spark-assembly-1.6.2-hadoop2.4.0.jar
